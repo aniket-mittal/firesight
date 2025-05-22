@@ -91,7 +91,7 @@ The project uses TFRecord datasets containing the following input features:
 
 While full details are available in the paper, here are some visualizations of fire spread predictions:
 
-![Fire Spread Prediction Comparison](images/fire_spread_prediction.png.png)
+![Fire Spread Prediction Comparison](images/fire_spread_prediction.png)
 
 ![Fire Spread Prediction Over Time](images/fire_sight_over_time.png)
 
