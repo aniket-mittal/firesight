@@ -3,6 +3,8 @@
 ## Overview
 This project implements a machine learning system for predicting wildfire occurrences using various deep learning architectures. The system processes environmental data including terrain height, temperature, humidity, wind speed, and other relevant features to predict fire presence in a given area. The original code for this project is available here: https://colab.research.google.com/drive/1DkgCx6WjrmhgcBvnwuEhaSakB6I0f0q4. A manuscript regarding this work can be found: https://eartharxiv.org/repository/view/5972/
 
+Project Worked On: Jan 2023 - Mar 2023
+
 ## Features
 - Multiple deep learning model implementations:
   - ResNet50 and ResNet101
